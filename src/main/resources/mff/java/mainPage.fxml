@@ -30,7 +30,7 @@
             <TextField fx:id="newTaskEstimation"/>
 
             <VBox alignment="CENTER">
-                <Button onAction="#addTask">Add</Button>
+                <Button onAction="#addTask">Add task</Button>
             </VBox>
         </VBox>
     </VBox>
