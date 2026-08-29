@@ -7,7 +7,7 @@
           fx:controller="mff.java.MainPageController" stylesheets="@styles.css">
     <VBox alignment="TOP_CENTER" GridPane.columnIndex="0" GridPane.hgrow="ALWAYS" styleClass="box">
 
-        <Text styleClass="headline1">Task manager</Text>
+        <Text styleClass="headline1">Task manager - We've Come For You</Text>
 
         <ListView fx:id="taskList"/>
 
